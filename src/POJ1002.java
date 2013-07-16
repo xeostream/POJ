@@ -1,4 +1,3 @@
-package test;
 import java.util.Scanner;
 /*
  * To change this template, choose Tools | Templates
@@ -9,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Arthur
  */
-public class Main {
+public class POJ1002 {
     static char[] array = {'A','B','C','D','E','F','G','H','I','J','K','L','M',
     'N','O','P','R','S','T','U','V','W','X','Y'};
     public static void main(String[] args) {
